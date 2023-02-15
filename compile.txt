@@ -1,0 +1,2 @@
+g++ -W --std=c++17 -o run  main2.cpp Komplexzahlen.cpp KomplexND.cpp
+
